@@ -1,2 +1,2 @@
-# Pomodoro-Timer
-Created a pomodoro timer using Python's Tkinter library
+# Password manager
+Used Python's tkinter GUI to create a password manager that generates passwords and stores them in a separate file
